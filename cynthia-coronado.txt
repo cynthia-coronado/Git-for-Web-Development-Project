@@ -1,0 +1,40 @@
+https://codepen.io/ccoronado/pen/WNGLEJq
+
+1. Semantic HTML helps show the meaning of the information being presented on a web page. 
+2. HTML is used to create a structure for a web pages content. 
+3. Attributes provide additional properties to elements in the opening tag. 
+4. H1 tags are used to designate the main heading of the page. H1 tags should only be used once. 
+5. img and a 
+6. <title>
+7. An id is used to specify style
+8. You can add an id to many elements but they cannot have the same id.
+9. Once 
+10. Class attribute is used to direct to a certain class in the program.
+11. You can add an element to any class
+12. As many as it takes
+13. href tag 
+14. The alt attribute is used to give text for the image. 
+15. #
+16. A section tag is used to locate certain sectons on the page like a header. The div tag is used to locate a larger portion of the page. 
+17. CSS is used to style a page and make the page viewer friendly. 
+18. the element with curly braces
+19. An id will only show up once with elements that only appear on the page once. A class will show up multiple times in paragraphs or images.
+<h1> <secton class="notes"
+20. .notes {}
+21. .human p {}
+22. Parent child selector sepcifies which elements belong to eachother and rank importance. It is helpfull when organizing a page. You can select all elements that are "children" of the "parent" element 
+23. div.sidebar
+24. Psuedo selectors help specalize a class like :hover 
+25. line-height
+26. letter-spacing
+27. text-transformation 
+28. border: 1px dotted black;
+29. *
+30. /**/
+31. pwd
+32. ls
+33. rm can be dangerous because there is no recovery
+34. Version Control helps keep changes organized. In a group setting everyone will be using the up to date version. 
+35. All the time 
+36. git push 
+37. Git flow is forking a repo, cloning it to our own space and being able to work on the project without hurting the progress of the actual project. We can then compare our changes before merging with the project. 
